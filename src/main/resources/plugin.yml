@@ -1,0 +1,6 @@
+name: MyHomesX
+version: 1.0.0
+main: com.myhomesx.MyHomesX
+api-version: '1.21'
+author: DOLPHNXM
+description: Network-ready homes plugin
