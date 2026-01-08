@@ -90,7 +90,7 @@ Ideal para hubs, survival, skyblock y más.
 
 ## 📜 Licencia
 
-Este proyecto se distribuye bajo la licencia **APACHE**.  
+Este proyecto se distribuye bajo la licencia **APACHE 2.0**.  
 Puedes Pedir Permiso Para Distribuirlo Contactandome A Mi Github.
 
 ---
